@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Bibek\\PycharmProjects\\Combo\\melanoma_backend\\SkinCancer-0.001-6conv-basic.model"
+all_model_checkpoint_paths: "C:\\Users\\Bibek\\PycharmProjects\\Combo\\melanoma_backend\\SkinCancer-0.001-6conv-basic.model"
